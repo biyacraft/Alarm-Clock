@@ -4,6 +4,8 @@
     padding: 0;
 }
 
+
+
 body {
     background-color: #0c1022;
 }
@@ -11,6 +13,8 @@ body {
 body h1 {
     color: #0ef;
 }
+
+
 
 .header {
     margin-top: 25px;
@@ -23,6 +27,8 @@ body h1 {
     height: auto;
     background-color: rgba(0, 0, 0, 0.663);
 }
+
+
 
 #clock {
     border: 1px solid rgba(0, 0, 0, 0.663);
